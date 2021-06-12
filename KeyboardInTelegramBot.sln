@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardInTelegramBot", "KeyboardInTelegramBot\KeyboardInTelegramBot.csproj", "{8AB7CC5C-8EB9-4A27-9D7B-E10677E278FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB7CC5C-8EB9-4A27-9D7B-E10677E278FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB7CC5C-8EB9-4A27-9D7B-E10677E278FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB7CC5C-8EB9-4A27-9D7B-E10677E278FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB7CC5C-8EB9-4A27-9D7B-E10677E278FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFD89512-C986-41A2-BE3A-BA61690D3460}
+	EndGlobalSection
+EndGlobal
